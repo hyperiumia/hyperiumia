@@ -1,4 +1,8 @@
-# 👨‍💻 Patricio Tirado | Arquitecto de Ecosistemas Seguros
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:006699&height=200&section=header&text=Hyperium%20IA&fontSize=70&fontColor=ffffff&desc=Arquitectura%20de%20Ecosistemas%20Seguros&descSize=20&descAlignY=75" alt="Hyperium IA Banner" width="100%">
+</p>
+
+# 👨‍💻 Patricio Tirado | Arquitecto de Ecosistemas boilerplate Seguros
 
 ## CEO & Founder of Hyperium IA & LAINCRIM SEC | Resilient Architecture | Test-Driven | Legal-Grade Forensics
 
