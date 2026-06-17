@@ -68,6 +68,6 @@ Si eres un **desarrollador** que busca código funcional de alto nivel o un **CI
 
 * 🛒 **Catálogo de Herramientas Premium:** [hyperiumsh.com](https://hyperiumsh.com)
 * 🔗 **LinkedIn:** [Patricio Tirado](https://www.linkedin.com/in/patricio-tirado-ceo)
-* 📩 **Contacto Corporativo:** [contacto@hyperiumia.com](mailto:contacto@hyperiumia.com)
+* 📩 **Contacto Corporativo:** [hyperiumia@protonmail.com](mailto:hyperiumia@protonmail.com)
 
 > *Este perfil es auditable, robusto y está diseñado para producción. Hecho en San Antonio, Chile. 🇨🇱*
