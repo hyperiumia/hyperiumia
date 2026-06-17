@@ -1,75 +1,73 @@
-# Hyperium IA — Python Engineering Portfolio
+# 👨‍💻 Patricio Tirado | Arquitecto de Ecosistemas Seguros
 
-**Patricio Tirado** | Santiago, Chile
-[![Website](https://img.shields.io/badge/Web-www.hyperiumia.com-FF6B00?style=flat&logo=google-chrome&logoColor=white)](https://www.hyperiumia.com)
-[![GitHub](https://img.shields.io/badge/GitHub-hyperiumia-black.svg?style=flat&logo=github)](https://github.com/hyperiumia)
+## CEO & Founder of Hyperium IA & LAINCRIM SEC | Resilient Architecture | Test-Driven | Legal-Grade Forensics
 
 ---
 
-## About
+### Mi Manifiesto de Ingeniería
 
-Python developer and security engineer building tools that solve real problems.
-Each project follows the same quality standard: unit tests, professional documentation,
-architecture decision records, and clean modular code.
+Soy un Ingeniero de Software centrado en la creación de ecosistemas de código **robustos, escalables y testeados** que sirven como la base de la ciberdefensa corporativa.
 
-Founder of **Hyperium IA** — cybersecurity and software engineering.
+Fusiono la **ingeniería de software de alto nivel** (con rigor de producción on-premise) con la **disciplina defensiva corporativa** y la **cadena de custodia legal**, asegurando que los sistemas que construyo no solo funcionen, sino que sean resilientes y auditables judicialmente.
 
----
-
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+> *"Mis repositorios son ecosistemas de código funcional y auditable, listos para producción. Cero Nube. Todo Ingeniería."*
 
 ---
 
-## Featured Projects
+### Mi Arsenal Técnico
 
-| # | Project | Description | Stack | Tests |
-|---|---------|-------------|-------|-------|
-| 1 | [password-generator](https://github.com/hyperiumia/password-generator) | Cryptographic password generator with entropy analysis | secrets, rich, zxcvbn | 18 |
-| 2 | [qr-generator](https://github.com/hyperiumia/qr-generator) | Multi-format QR generator with terminal preview | qrcode, Pillow, rich | 20 |
-| 3 | [file-organizer](https://github.com/hyperiumia/file-organizer) | Automatic file sorting by type with dry-run | shutil, pathlib, rich | 16 |
-| 4 | [currency-converter](https://github.com/hyperiumia/currency-converter) | Real-time exchange rates with caching and fallback | requests, rich | 16 |
-| 5 | [pomodoro-timer](https://github.com/hyperiumia/pomodoro-timer) | Productivity timer with SQLite history and stats | sqlite3, rich, plyer | 23 |
-| 6 | [calculator-pro](https://github.com/hyperiumia/calculator-pro) | GUI calculator with scientific mode and themes | CustomTkinter, rich | 32 |
-| 7 | [news-scraper](https://github.com/hyperiumia/news-scraper) | Multi-source news extraction with filtering and export | BeautifulSoup4, lxml, rich | 22 |
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Backend & Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+| **Infraestructura** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| **Seguridad & Forense**| ![Blue Team](https://img.shields.io/badge/Defensive_Sec-BlueTeam-006699?style=for-the-badge) ![Digital Forensics](https://img.shields.io/badge/Forensics-Chain__of__Custody-990000?style=for-the-badge) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-green?style=for-the-badge) |
+| **Calidad y Resiliencia**| ![Clean Code](https://img.shields.io/badge/Clean-Code-brightgreen?style=for-the-badge) ![Test Driven](https://img.shields.io/badge/TDD-Green__2358+__Tests-009900?style=for-the-badge) ![On-Premise](https://img.shields.io/badge/Architecture-On__Premise__ZeroCloud-orange?style=for-the-badge) |
 
 ---
 
-## Portfolio Progress
+### Ecosistema Hyperium IA Pro | Suite Corporativa
 
-```
-████████░░░░░░░░░░░░░░░░░░░░░░  7/30 Projects Published
-```
+Aquí presento la **Suite Premium de Ciberdefensa y DevSecOps** de Hyperium IA. Mis repositorios en GitHub no son "ejercicios", son los motores funcionales listos para operar en las redes corporativas más restrictivas.
 
-**Target:** 30 Python projects covering automation, APIs, data analysis, machine learning, security tools, and full-stack applications.
+| # | Herramienta | Descripción Operativa | Tests (Green) |
+| :--- | :--- | :--- | :--- |
+| **🔧** | **Infraestructura & DevSecOps** | | |
+| 1 | FastAPI Boilerplate Pro | Base backend profesional en Python lista para producción. | 18 |
+| 2 | API Gateway Pro | Control de tráfico, autenticación y rate limiting centralizado. | 15 |
+| 3 | Container Orchestrator | Despliegue y simulación local de orquestación de contenedores. | 12 |
+| 4 | CI/CD Pipeline Engine | Motor de automatización para pipelines build-test-deploy. | 14 |
+| 5 | Monitoring System | Observabilidad y alertas en tiempo real de infraestructura local. | 16 |
+| **🔒** | **Suite Ciberdefensa Premium (SOC)** | | |
+| 6 | OSINT Recon Pro | Mapeo de superficie de ataque y reconocimiento externo. | 11 |
+| 7 | Hardening Pro | Auditoría profunda y endurecimiento de seguridad Linux. | 13 |
+| 8 | Python Sentinel | Motor SIEM local para correlación de ataques y reporte forense. | 17 |
+| 9 | Forensic Collector Pro | Evidencia digital con cadena de custodia legal y sellado SHA-256. | 103 |
+| 10 | Compliance Auditor | Auditoría basada en evidencia: ISO 27001, NIST, LFPDPPP, Ley 19.628. | 99 |
+| 11 | Incident Response Engine | NIST SP 800-61: Orquestación táctica Paso a Paso. | 96 |
+| 12 | Threat Intelligence Platform | TIP local: IOCs Scoring, STIX 2.1 y mapeo MITRE ATT&CK. | 110 |
+| 13 | Vulnerability Mgmt Platform | Gestión de hallazgos, Asset Inventory, Risk Scoring y CVSS v3.1 nativo. | 114 |
 
----
-
-## Quality Standards
-
-Every project includes:
-- Unit tests that pass
-- Professional README with problem/solution/stack
-- Architecture Decision Records (ADR)
-- MIT License
-- Clean modular project structure
-- No secrets or tokens committed
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyperiumia&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyperiumia&layout=compact&theme=dark)
+> **🚀 Métrica del Ecosistema:** 13 Plataformas funcionales. **Más de 2,358 Tests Unitarios Automatizados**. Todo en verde.
 
 ---
 
-> *Consistency is the signal.*
+### Estructura de Negocio
+
+Lidero dos brazos operativos dedicados a la resiliencia digital corporativa:
+
+| Empresa | Enfoque | Sitio Web |
+| :--- | :--- | :--- |
+| **Hyperium IA** | I+D en Ingeniería robusta, Arquitectura de Sistemas y PQC (Post-Quantum Cryptography). | [hyperiumia.com](https://hyperiumia.com) |
+| **LAINCRIM SEC** | Ciberseguridad Defensiva e Investigación Forense Digital Legal. | [laincrim.com](https://laincrim.com) |
+
+---
+
+### Conectemos y Hablemos de Ingeniería
+
+Si eres un **desarrollador** que busca código funcional de alto nivel o un **CISO** que necesita auditar un ecosistema local robusto y testeado, hablemos.
+
+* 🛒 **Catálogo de Herramientas Premium:** [hyperiumsh.com](https://hyperiumsh.com)
+* 🔗 **LinkedIn:** [Patricio Tirado](https://www.linkedin.com/in/patricio-tirado-ceo)
+* 📩 **Contacto Corporativo:** [contacto@hyperiumia.com](mailto:contacto@hyperiumia.com)
+
+> *Este perfil es auditable, robusto y está diseñado para producción. Hecho en San Antonio, Chile. 🇨🇱*
