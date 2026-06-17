@@ -1,4 +1,8 @@
-# 👨‍💻 Patricio Tirado | Arquitecto de Ecosistemas Seguros
+<p align="center">
+  <img src="https://i.ibb.co/image_88.png" alt="Patricio Tirado | Architecting Secure boilerplate Ecosystems" width="100%">
+</p>
+
+# 👨‍💻 Patricio Tirado | Arquitecto de Ecosistemas boilerplate Seguros
 
 ## CEO & Founder of Hyperium IA & LAINCRIM SEC | Resilient Architecture | Test-Driven | Legal-Grade Forensics
 
@@ -18,14 +22,14 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Backend & Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+| **Backend & Core** | ![Python](https://img.shields.shields.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 | **Infraestructura** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 | **Seguridad & Forense**| ![Blue Team](https://img.shields.io/badge/Defensive_Sec-BlueTeam-006699?style=for-the-badge) ![Digital Forensics](https://img.shields.io/badge/Forensics-Chain__of__Custody-990000?style=for-the-badge) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-green?style=for-the-badge) |
 | **Calidad y Resiliencia**| ![Clean Code](https://img.shields.io/badge/Clean-Code-brightgreen?style=for-the-badge) ![Test Driven](https://img.shields.io/badge/TDD-Green__2358+__Tests-009900?style=for-the-badge) ![On-Premise](https://img.shields.io/badge/Architecture-On__Premise__ZeroCloud-orange?style=for-the-badge) |
 
 ---
 
-### Ecosistema Hyperium IA Pro | Suite Corporativa
+### Showcase: Ecosistema Hyperium IA Pro | Ecosistema Completo de Ciberseguridad
 
 Aquí presento la **Suite Premium de Ciberdefensa y DevSecOps** de Hyperium IA. Mis repositorios en GitHub no son "ejercicios", son los motores funcionales listos para operar en las redes corporativas más restrictivas.
 
@@ -42,16 +46,16 @@ Aquí presento la **Suite Premium de Ciberdefensa y DevSecOps** de Hyperium IA. 
 | 7 | Hardening Pro | Auditoría profunda y endurecimiento de seguridad Linux. | 13 |
 | 8 | Python Sentinel | Motor SIEM local para correlación de ataques y reporte forense. | 17 |
 | 9 | Forensic Collector Pro | Evidencia digital con cadena de custodia legal y sellado SHA-256. | 103 |
-| 10 | Compliance Auditor | Auditoría basada en evidencia: ISO 27001, NIST, LFPDPPP, Ley 19.628. | 99 |
+| 10 | Compliance Auditor | Auditoría basada en evidencia: ISO 27001, NIST, GDPR, LFPDPPP, Ley 19.628. | 99 |
 | 11 | Incident Response Engine | NIST SP 800-61: Orquestación táctica Paso a Paso. | 96 |
 | 12 | Threat Intelligence Platform | TIP local: IOCs Scoring, STIX 2.1 y mapeo MITRE ATT&CK. | 110 |
 | 13 | Vulnerability Mgmt Platform | Gestión de hallazgos, Asset Inventory, Risk Scoring y CVSS v3.1 nativo. | 114 |
 
+---
 > **🚀 Métrica del Ecosistema:** 13 Plataformas funcionales. **Más de 2,358 Tests Unitarios Automatizados**. Todo en verde.
-
 ---
 
-### Estructura de Negocio
+### Estructura de Negocio Búsiness de Confianza
 
 Lidero dos brazos operativos dedicados a la resiliencia digital corporativa:
 
@@ -62,12 +66,21 @@ Lidero dos brazos operativos dedicados a la resiliencia digital corporativa:
 
 ---
 
+### GitHub Stats (Dinamismo Operativo)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyperiumia&show_icons=true&theme=dark&hide_border=true" alt="hyperiumia's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperiumia&layout=compact&theme=dark&hide_border=true" alt="hyperiumia's Top Langs" width="48%">
+</p>
+
+---
+
 ### Conectemos y Hablemos de Ingeniería
 
-Si eres un **desarrollador** que busca código funcional de alto nivel o un **CISO** que necesita auditar un ecosistema local robusto y testeado, hablemos.
+Si eres un **desarrollador** que busca boilerplate funcional de alto nivel o un **CISO** que necesita auditar un ecosistema local robusto y testeado, hablemos.
 
-* 🛒 **Catálogo de Herramientas Premium:** [hyperiumsh.com](https://hyperiumsh.com)
-* 🔗 **LinkedIn:** [Patricio Tirado](https://www.linkedin.com/in/patricio-tirado-ceo)
-* 📩 **Contacto Corporativo:** [hyperiumia@protonmail.com](mailto:hyperiumia@protonmail.com)
+* 🛒 **Catálogo de Herramientas boilerplate:** [hyperiumsh.com](https://hyperiumsh.com)
+* 🔗 **LinkedIn (Patricio Tirado):** [linkedin.com/in/patricio-tirado-ceo](https://www.linkedin.com/in/patricio-tirado-ceo)
+* 📩 **Contacto Corporativo:** [hyperiumia@protonmail.com](hyperiumia@protonmail.com)
 
 > *Este perfil es auditable, robusto y está diseñado para producción. Hecho en San Antonio, Chile. 🇨🇱*
