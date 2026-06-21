@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:006699&height=200&section=header&text=Hyperium%20IA&fontSize=70&fontColor=ffffff&desc=Arquitectura%20de%20Ecosistemas%20Seguros&descSize=20&descAlignY=75" alt="Hyperium IA Banner" width="100%">
-</p>
+![Hyperium IA Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:006699&height=200&section=header&text=Hyperium%20IA&fontSize=70&fontColor=ffffff&desc=Arquitectura%20de%20Ecosistemas%20Seguros&descSize=20&descAlignY=75)
 
 # 👨‍💻 Patricio Tirado | Arquitecto de Ecosistemas boilerplate Seguros
 
@@ -21,11 +19,11 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 ### Mi Arsenal Técnico
 
 | Categoría | Tecnologías |
-| :--- | :--- |
+|---|---|
 | **Backend & Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 | **Infraestructura** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| **Seguridad & Forense**| ![Blue Team](https://img.shields.io/badge/Defensive_Sec-BlueTeam-006699?style=for-the-badge) ![Digital Forensics](https://img.shields.io/badge/Forensics-Chain__of__Custody-990000?style=for-the-badge) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-green?style=for-the-badge) |
-| **Calidad y Resiliencia**| ![Clean Code](https://img.shields.io/badge/Clean-Code-brightgreen?style=for-the-badge) ![Test Driven](https://img.shields.io/badge/TDD-Green__2358+__Tests-009900?style=for-the-badge) ![On-Premise](https://img.shields.io/badge/Architecture-On__Premise__ZeroCloud-orange?style=for-the-badge) |
+| **Seguridad & Forense** | ![Blue Team](https://img.shields.io/badge/Defensive_Sec-BlueTeam-006699?style=for-the-badge) ![Digital Forensics](https://img.shields.io/badge/Forensics-Chain__of__Custody-990000?style=for-the-badge) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-green?style=for-the-badge) |
+| **Calidad y Resiliencia** | ![Clean Code](https://img.shields.io/badge/Clean-Code-brightgreen?style=for-the-badge) ![Test Driven](https://img.shields.io/badge/TDD-Green__2508+__Tests-009900?style=for-the-badge) ![On-Premise](https://img.shields.io/badge/Architecture-On__Premise__ZeroCloud-orange?style=for-the-badge) |
 
 ---
 
@@ -34,7 +32,7 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 Aquí presento la **Suite Premium de Ciberdefensa y DevSecOps** de Hyperium IA. Mis repositorios en GitHub no son "ejercicios", son los motores funcionales listos para operar en las redes corporativas más restrictivas.
 
 | # | Herramienta | Descripción Operativa | Tests (Green) |
-| :--- | :--- | :--- | :--- |
+|---|---|---|---|
 | **🔧** | **Infraestructura & DevSecOps** | | |
 | 1 | FastAPI Boilerplate Pro | Base backend profesional en Python lista para producción. | 18 |
 | 2 | API Gateway Pro | Control de tráfico, autenticación y rate limiting centralizado. | 15 |
@@ -50,9 +48,13 @@ Aquí presento la **Suite Premium de Ciberdefensa y DevSecOps** de Hyperium IA. 
 | 11 | Incident Response Engine | NIST SP 800-61: Orquestación táctica Paso a Paso. | 96 |
 | 12 | Threat Intelligence Platform | TIP local: IOCs Scoring, STIX 2.1 y mapeo MITRE ATT&CK. | 110 |
 | 13 | Vulnerability Mgmt Platform | Gestión de hallazgos, Asset Inventory, Risk Scoring y CVSS v3.1 nativo. | 114 |
+| **🔮** | **Post-Quantum Cryptography (PQC)** | | |
+| 14 | **Q-Audit Pro** | **Motor de preparación criptográfica post-cuántica. CBOM completo, scoring de riesgo cuántico con HNDL/Y2Q, roadmap de migración NIST FIPS 203/204/205, y reporte legal sellado SHA-256.** | **150** |
 
 ---
-> **🚀 Métrica del Ecosistema:** 13 Plataformas funcionales. **Más de 2,358 Tests Unitarios Automatizados**. Todo en verde.
+
+> **🚀 Métrica del Ecosistema:** 14 Plataformas funcionales. **Más de 2,508 Tests Unitarios Automatizados**. Todo en verde.
+
 ---
 
 ### Estructura Búsiness de Confianza
@@ -60,27 +62,18 @@ Aquí presento la **Suite Premium de Ciberdefensa y DevSecOps** de Hyperium IA. 
 Lidero dos brazos operativos dedicados a la resiliencia digital corporativa:
 
 | Empresa | Enfoque | Sitio Web |
-| :--- | :--- | :--- |
-| **Hyperium IA** | I+D en Ingeniería robusta, Arquitectura de Sistemas y PQC (Post-Quantum Cryptography). | [hyperiumia.com](https://hyperiumia.com) |
-| **LAINCRIM SEC** | Ciberseguridad Defensiva e Investigación Forense Digital Legal. | [laincrim.com](https://laincrim.com) |
+|---|---|---|
+| **Hyperium IA** | I+D en Ingeniería robusta, Arquitectura de Sistemas y PQC (Post-Quantum Cryptography). | hyperiumia.com |
+| **LAINCRIM SEC** | Ciberseguridad Defensiva e Investigación Forense Digital Legal. | laincrim.com |
 
 ---
 
 ### GitHub Stats (Dinamismo Operativo)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyperiumia&show_icons=true&theme=dark&hide_border=true" alt="hyperiumia's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperiumia&layout=compact&theme=dark&hide_border=true" alt="hyperiumia's Top Langs" width="48%">
-</p>
 
 ---
 
 ### Conectemos y Hablemos de Ingeniería
 
 Si eres un **desarrollador** que busca código funcional de alto nivel o un **CISO** que necesita auditar un ecosistema local robusto y testeado, hablemos.
-
-* 🛒 **Catálogo de Herramientas Premium:** [hyperiumsh.com](https://hyperiumsh.com)
-* 🔗 **LinkedIn:** [Patricio Tirado](https://www.linkedin.com/in/patricio-tirado-ceo)
-* 📩 **Contacto Corporativo:** [hyperiumia@protonmail.com](hyperiumia@protonmail.com)
 
 > *Este perfil es auditable, robusto y está diseñado para producción. Hecho en San Antonio, Chile. 🇨🇱*
