@@ -1,24 +1,24 @@
 ![Hyperium IA Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:006699&height=200&section=header&text=Hyperium%20IA&fontSize=70&fontColor=ffffff&desc=Arquitectura%20de%20Ecosistemas%20Seguros&descSize=20&descAlignY=75)
 
-# 👨‍💻 Patricio Tirado | Arquitecto de Ecosistemas boilerplate Seguros
+# Patricio Tirado | Arquitecto de Ecosistemas Seguros
 
 ## CEO & Founder of Hyperium IA & LAINCRIM SEC | Resilient Architecture | Test-Driven | Legal-Grade Forensics
 
 ---
 
-### Mi Manifiesto de Ingeniería
+### Mi Manifiesto de Ingenieria
 
-Soy un Ingeniero de Software centrado en la creación de ecosistemas de código **robustos, escalables y testeados** que sirven como la base de la ciberdefensa corporativa.
+Soy un Ingeniero de Software centrado en la creacion de ecosistemas de codigo **robustos, escalables y testeados** que sirven como la base de la ciberdefensa corporativa.
 
-Fusiono la **ingeniería de software de alto nivel** (con rigor de producción on-premise) con la **disciplina defensiva corporativa** y la **cadena de custodia legal**, asegurando que los sistemas que construyo no solo funcionen, sino que sean resilientes y auditables judicialmente.
+Fusiono la **ingenieria de software de alto nivel** (con rigor de produccion on-premise) con la **disciplina defensiva corporativa** y la **cadena de custodia legal**, asegurando que los sistemas que construyo no solo funcionen, sino que sean resilientes y auditables judicialmente.
 
-> *"Mis repositorios son ecosistemas de código funcional y auditable, listos para producción. Cero Nube. Todo Ingeniería."*
+> *"Mis repositorios son ecosistemas de codigo funcional y auditable, listos para produccion. Cero Nube. Todo Ingenieria."*
 
 ---
 
-### Mi Arsenal Técnico
+### Mi Arsenal Tecnico
 
-| Categoría | Tecnologías |
+| Categoria | Tecnologias |
 |---|---|
 | **Backend & Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 | **Infraestructura** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
@@ -27,53 +27,52 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 
 ---
 
-### Showcase: Ecosistema Hyperium IA Pro | Ecosistema Completo de Ciberseguridad
+### Showcase: Ecosistema Hyperium IA Pro | Suite Completa de Ciberseguridad
 
-Aquí presento la **Suite Premium de Ciberdefensa y DevSecOps** de Hyperium IA. Mis repositorios en GitHub no son "ejercicios", son los motores funcionales listos para operar en las redes corporativas más restrictivas.
+Aqui presento la **Suite Premium de Ciberdefensa y DevSecOps** de Hyperium IA. Cada herramienta es un producto independiente, testeado, listo para produccion.
 
-| # | Herramienta | Descripción Operativa | Tests (Green) |
+| # | Herramienta | Descripcion Operativa | Tests |
 |---|---|---|---|
-| **🔧** | **Infraestructura & DevSecOps** | | |
-| 1 | FastAPI Boilerplate Pro | Base backend profesional en Python lista para producción. | 18 |
-| 2 | API Gateway Pro | Control de tráfico, autenticación y rate limiting centralizado. | 15 |
-| 3 | Container Orchestrator | Despliegue y simulación local de orquestación de contenedores. | 12 |
-| 4 | CI/CD Pipeline Engine | Motor de automatización para pipelines build-test-deploy. | 14 |
-| 5 | Monitoring System | Observabilidad y alertas en tiempo real de infraestructura local. | 16 |
-| **🔒** | **Suite Ciberdefensa Premium (SOC)** | | |
-| 6 | OSINT Recon Pro | Mapeo de superficie de ataque y reconocimiento externo. | 11 |
-| 7 | Hardening Pro | Auditoría profunda y endurecimiento de seguridad Linux. | 13 |
-| 8 | Python Sentinel | Motor SIEM local para correlación de ataques y reporte forense. | 17 |
-| 9 | Forensic Collector Pro | Evidencia digital con cadena de custodia legal y sellado SHA-256. | 103 |
-| 10 | Compliance Auditor | Auditoría basada en evidencia: ISO 27001, NIST, GDPR, LFPDPPP, Ley 19.628. | 99 |
-| 11 | Incident Response Engine | NIST SP 800-61: Orquestación táctica Paso a Paso. | 96 |
-| 12 | Threat Intelligence Platform | TIP local: IOCs Scoring, STIX 2.1 y mapeo MITRE ATT&CK. | 110 |
-| 13 | Vulnerability Mgmt Platform | Gestión de hallazgos, Asset Inventory, Risk Scoring y CVSS v3.1 nativo. | 114 |
-| **🔮** | **Post-Quantum Cryptography (PQC)** | | |
-| 14 | **Q-Audit Pro** | **Motor de preparación criptográfica post-cuántica. CBOM completo, scoring de riesgo cuántico con HNDL/Y2Q, roadmap de migración NIST FIPS 203/204/205, y reporte legal sellado SHA-256.** | **150** |
+| **Infraestructura & DevSecOps** | | | |
+| 1 | [FastAPI Boilerplate Pro](https://github.com/hyperiumia/hyperium-fastapi-boilerplate) | Base backend profesional en Python lista para produccion. | 18 |
+| 2 | [API Gateway Pro](https://github.com/hyperiumia/api-gateway) | Control de trafico, autenticacion y rate limiting centralizado. | 15 |
+| 3 | [Container Orchestrator](https://github.com/hyperiumia/orchestrator) | Despliegue y simulacion local de orquestacion de contenedores. | 12 |
+| 4 | [CI/CD Pipeline Engine](https://github.com/hyperiumia/cicd-pipeline) | Motor de automatizacion para pipelines build-test-deploy. | 14 |
+| 5 | [Monitoring System](https://github.com/hyperiumia/monitoring-system) | Observabilidad y alertas en tiempo real de infraestructura local. | 16 |
+| **Suite Ciberdefensa Premium (SOC)** | | | |
+| 6 | [OSINT Recon Pro](https://github.com/hyperiumia/osint-recon) | Mapeo de superficie de ataque y reconocimiento externo. | 11 |
+| 7 | [Hardening Pro](https://github.com/hyperiumia/hardening) | Auditoria profunda y endurecimiento de seguridad Linux. | 13 |
+| 8 | [Python Sentinel](https://github.com/hyperiumia/python-sentinel) | Motor SIEM local para correlacion de ataques y reporte forense. | 17 |
+| 9 | [Forensic Collector Pro](https://github.com/hyperiumia/forensic-collector) | Evidencia digital con cadena de custodia legal y sellado SHA-256. | 103 |
+| 10 | [Compliance Auditor](https://github.com/hyperiumia/compliance-auditor) | Auditoria basada en evidencia: ISO 27001, NIST, GDPR, LFPDPPP, Ley 19.628. | 99 |
+| 11 | [Incident Response Engine](https://github.com/hyperiumia/incident-response) | NIST SP 800-61: Orquestacion tactica Paso a Paso. | 96 |
+| 12 | [Threat Intelligence Platform](https://github.com/hyperiumia/threat-intelligence) | TIP local: IOCs Scoring, STIX 2.1 y mapeo MITRE ATT&CK. | 110 |
+| 13 | [Vulnerability Mgmt Platform](https://github.com/hyperiumia/vulnerability-mgmt) | Gestion de hallazgos, Asset Inventory, Risk Scoring y CVSS v3.1 nativo. | 114 |
+| **Post-Quantum & TLS** | | | |
+| 14 | [Q-Audit Pro](https://github.com/hyperiumia/q-audit-pro) | Motor de preparacion criptografica post-cuantica. CBOM, riesgo cuantico, migracion NIST FIPS 203/204/205. | 150 |
+| 15 | [BAS-Pro](https://github.com/hyperiumia/bas-pro) | Breach and Attack Simulation: valida tus defensas con ataques reales MITRE ATT&CK. | 140 |
+| 16 | [TAT-Pro](https://github.com/hyperiumia/tat-pro) | Transactional Audit and Triage: auditoria de seguridad para plataformas de pago. | 120 |
+| 17 | [TLS-Pro](https://github.com/hyperiumia/tls-pro) | Evaluacion profunda TLS/SSL con analisis de certificados y vulnerabilidad cuantica. | 18 |
 
 ---
 
-> **🚀 Métrica del Ecosistema:** 14 Plataformas funcionales. **Más de 2,508 Tests Unitarios Automatizados**. Todo en verde.
+> **Metrica del Ecosistema:** 17 Productos funcionales. **Mas de 2,508 Tests Unitarios Automatizados**. Todo en verde. 100% On-Premise.
 
 ---
 
-### Estructura Búsiness de Confianza
+### Estructura Business de Confianza
 
 Lidero dos brazos operativos dedicados a la resiliencia digital corporativa:
 
 | Empresa | Enfoque | Sitio Web |
 |---|---|---|
-| **Hyperium IA** | I+D en Ingeniería robusta, Arquitectura de Sistemas y PQC (Post-Quantum Cryptography). | hyperiumia.com |
-| **LAINCRIM SEC** | Ciberseguridad Defensiva e Investigación Forense Digital Legal. | laincrim.com |
+| **Hyperium IA** | I+D en Ingenieria robusta, Arquitectura de Sistemas y PQC (Post-Quantum Cryptography). | hyperiumia.com |
+| **LAINCRIM SEC** | Ciberseguridad Defensiva e Investigacion Forense Digital Legal. | laincrim.com |
 
 ---
 
-### GitHub Stats (Dinamismo Operativo)
+### Conectemos y Hablemos de Ingenieria
 
----
+Si eres un **desarrollador** que busca codigo funcional de alto nivel o un **CISO** que necesita auditar un ecosistema local robusto y testeado, hablemos.
 
-### Conectemos y Hablemos de Ingeniería
-
-Si eres un **desarrollador** que busca código funcional de alto nivel o un **CISO** que necesita auditar un ecosistema local robusto y testeado, hablemos.
-
-> *Este perfil es auditable, robusto y está diseñado para producción. Hecho en San Antonio, Chile. 🇨🇱*
+> *Este perfil es auditable, robusto y esta disenado para produccion. Hecho en San Antonio, Chile.*
