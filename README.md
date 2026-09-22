@@ -4,7 +4,7 @@
 <!--                          HEADER ANIMADO                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:001a33,65:006699,100:0d1117&height=320&section=header&text=HYPERIUM%20IA&fontColor=ffffff&fontSize=92&fontAlignY=52&desc=Patricio%20Tirado%20%7C%20CEO%20%26%20Founder%20%7C%20Hyperium%20IA%20%26%20LAINCRIM%20SEC&descSize=24&descAlignY=78&descColor=b0c4de&animation=scaleIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:001a33,70:006699,100:0d1117&height=320&section=header&text=HYPERIUM%20IA&fontColor=ffffff&fontSize=92&fontAlignY=45&desc=Patricio%20Tirado%20-%20CEO%20and%20Founder&descSize=22&descAlignY=80&descColor=b0c4de" width="100%"/>
 
 <br/>
 
