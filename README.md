@@ -350,13 +350,14 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 </details>
 
 <details>
-<summary><b>🔐 Post-Quantum y Criptografía</b> (2 herramientas · Quantum-Safe)</summary>
+<summary><b>🔐 Post-Quantum y Criptografía</b> (3 herramientas · Quantum-Safe)</summary>
 <br/>
 
 | Herramienta | Descripción Operativa |
 |---|---|
 | **[Q-Audit Pro](https://github.com/hyperiumia/q-audit-pro)** | Motor de preparación criptográfica post-cuántica. CBOM, riesgo cuántico y migración NIST FIPS 203/204/205 · 150 tests |
 | **[TLS-Pro](https://github.com/hyperiumia/tls-pro)** | Evaluación profunda TLS/SSL con análisis de certificados y vulnerabilidad cuántica (Rust) |
+| **Encryption Toolkit Pro** | Suite completa de herramientas criptográficas y gestión de claves |
 
 </details>
 
@@ -369,9 +370,9 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 | **[FastAPI Boilerplate Pro](https://github.com/hyperiumia/hyperium-fastapi-boilerplate)** | Base backend profesional en Python lista para producción (MIT) |
 | **[API Gateway Pro](https://github.com/hyperiumia/api-gateway)** | Control de tráfico, autenticación y rate limiting centralizado |
 | **[Container Orchestrator](https://github.com/hyperiumia/orchestrator)** | Despliegue y simulación local de orquestación de contenedores |
-| **[CI/CD Pipeline Engine](https://github.com/hyperiumia/cicd-pipeline)** | Motor de automatización para pipelines build-test-deploy |
+| **[CI/ para pipelines build-test-deploy |
 | **[Monitoring System](https://github.com/hyperiumia/monitoring-system)** | Observabilidad y alertas en tiempo real de infraestructura local |
-| **Rate Limiter Pro** | Control de tasa de peticiones con algoritmos adaptativos |
+| **Rate Limiter Pro** | Control de tasa de peticiones con algoritmos adaptativosCD Pipeline Engine](https://github.com/hyperiumia/cicd-pipeline)** | Motor de automatización |
 | **Dependency Resolver Pro** | Resolución automática de dependencias y conflictos |
 | **Config Manager Pro** | Gestión centralizada de configuraciones multi-entorno |
 | **File Sync Pro** | Sincronización de archivos con detección de conflictos |
@@ -426,6 +427,29 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 </details>
 
 <details>
+<summary><b>🌐 Portfolio Web Profesional</b> (14 proyectos · Clientes y Marcas)</summary>
+<br/>
+
+| Proyecto | Marca / Cliente | Enfoque |
+|---|---|---|
+| **hyperiumia-web** | 🔬 Hyperium IA | Corporativo / R and D |
+| **hyperium-web** | 💻 Hyperium Web | Desarrollo / SaaS |
+| **hyperiumsh-web** | 🖥️ Hyperium SH | Shell / Sistemas |
+| **laincrim-web** | 🛡️ LAINCRIM SEC | Ciberdefensa / Legal |
+| **clubauravip-web** | ✨ Club Aura VIP | Hospitality / Lifestyle |
+| **wkbachile** | 🥊 WKB Chile | Deportes / Wellness |
+| **estudiojuridicoriveraymontoya-web** | ⚖️ Estudio Jurídico Rivera y Montoya | Legal |
+| **mentor-5am-web** | 🌅 Mentor 5AM | Coaching / Liderazgo |
+| **ciudadano-seguro-web** | 🛡️ Ciudadano Seguro | Seguridad Ciudadana |
+| **elitethaiboxchile-web** | 🥋 Elite Thai Box Chile | Deportes / Artes Marciales |
+| **mtc-organizacion-web** | 📊 MTC Organización | Consultoría |
+| **macarenutricion-web** | 🥗 Macarena Nutrición | Salud / Nutrición |
+| **cantolibreoficial-web** | 🎵 Canto Libre Oficial | Música / Cultura |
+| **laarmadura-dios-web** | ✝️ La Armadura de Dios | Comunidad / Fe |
+
+</details>
+
+<details>
 <summary><b>📦 Open Source y Comunidad</b> (15 herramientas · MIT License)</summary>
 <br/>
 
@@ -433,10 +457,7 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 |---|---|:-:|
 | **[Password Generator](https://github.com/hyperiumia/password-generator)** | Generador criptográficamente seguro con análisis de entropía | MIT |
 | **[QR Generator](https://github.com/hyperiumia/qr-generator)** | Generador de códigos QR con personalización | MIT |
-| **[File Organizer](https://github.com/hyperiumia/file-organizer)** | Organizador automático de archivos por tipo y fecha | MIT |
-| **[Currency Converter](https://github.com/hyperiumia/currency-converter)** | Conversor de divisas en tiempo real | MIT |
-| **[Pomodoro Timer](https://github.com/hyperiumia/pomodoro-timer)** | Temporizador Pomodoro para productividad | MIT |
-| **[Calculator Pro](https://github.com/hyperiumia/calculator-pro)** | Calculadora con funciones avanzadas | MIT |
+| **[File Calculadora con funciones avanzadas | MIT |
 | **[News Scraper](https://github.com/hyperiumia/news-scraper)** | Scraper de noticias con RSS | MIT |
 | **[Telegram Bot](https://github.com/hyperiumia/telegram-bot)** | Bot de Telegram con handlers y comandos | MIT |
 | **[Data Dashboard](https://github.com/hyperiumia/data-dashboard)** | Dashboard de datos con visualización | MIT |
@@ -461,7 +482,10 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 
 ## 🌐 Universo Digital Hyperium
 
-<table>
+ **[Pomodoro Timer](https://github.com/hyperiumia/pomodoro-timer)** | Organizer](https://github.com/hyperiumia/file-organizer)** | Organizador automático de archivos por tipo y fecha | MIT |
+| **[Currency Converter](https://github.com/hyperiumia/currency-converter)** | Conversor de divisas en tiempo real | MIT |
+| Temporizador Pomodoro para productividad | MIT |
+| **[Calculator Pro](https://github.com/hyperiumia/calculator-pro)** |<table>
 <tr>
 <td width="25%" align="center">
 <b style="font-size:14px;">🔬 Hyperium IA</b><br/>
@@ -506,18 +530,7 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/%F0%9F%8F%9B%EF%B8%8F%20Gobierno-004477?style=for-the-badge" height="32"/></td>
 <td align="center"><img src="https://img.shields.io/badge/%F0%9F%8F%A2%20Banca%20y%20Finanzas-006699?style=for-the-badge" height="32"/></td>
-<td align="center"><img src="https://img.shields.io/badge/%E2%9A%96%EF%B8%8F%20Legal%20y%20Judicial-cc0000?style=for-the-badge" height="32"/></td>
-<td align="center"><img src="https://img.shields.io/badge/%F0%9F%8F%A5%20Salud-009900?style=for-the-badge" height="32"/></td>
-<td align="center"><img src="https://img.shields.io/badge/%F0%9F%8E%93%20Educaci%C3%B3n-ff6600?style=for-the-badge" height="32"/></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/%F0%9F%A5%8A%20Deportes-cc3333?style=for-the-badge" height="32"/></td>
-<td align="center"><img src="https://img.shields.io/badge/%F0%9F%8F%A8%20Hospitality-9966cc?style=for-the-badge" height="32"/></td>
-<td align="center"><img src="https://img.shields.io/badge/%F0%9F%8E%B5%20Cultura-cc0066?style=for-the-badge" height="32"/></td>
-<td align="center"><img src="https://img.shields.io/badge/%F0%9F%9B%92%20Retail-ff9933?style=for-the-badge" height="32"/></td>
-<td align="center"><img src="https://img.shields.io/badge/%E2%9C%9D%EF%B8%8F%20Tech%20y%20SaaS-006699?style=for-the-badge" height="32"/></td>
-</tr>
-</table>
+<td align="center"><img src="https://img.shields.io/badge/%E2%9A%96%EF%B8%8F%20Legal%20y%20Judicial-cc0000?style=for-the-badge</table>
 
 <br/>
 
@@ -529,7 +542,18 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 | 🥗 Salud y Nutrición | Macarena Nutrición | Sitio web profesional |
 | 🌅 Educación y Coaching | Mentor 5AM | Plataforma de liderazgo |
 | ✨ Hospitality | Club Aura VIP | Landing premium |
-| 🎵 Cultura y Música | Canto Libre Oficial | Presencia digital |
+| 🎵 Cultura yhttps://img.shields.io/badge/%F0%9F%9B%92%20Retail-ff9933?style=for-the-badge" height="32"/></td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%9C%9D%EF%B8%8F%20Tech%20y%20SaaS-006699?style=for-the-badge" height" height="32"/></td>
+<td align="center"><img src="https://img.shields.io/badge/%F0%9F%8F%A5%20Salud-009900?style=for-the-badge" height="32"/></td>
+<td align="center"><img src="https://img.shields.io/badge/%F0%9F%8E%93%20Educaci%C3%B3n-ff6600?style=for-the-badge" height="32"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/%F0%9F%A5%8A%20Deportes-cc3333?style=for-the-badge" height="32"/></td>
+<td align="center"><img src="https://img.shields.io/badge/%F0%9F%8F%A8%20Hospitality-9966cc?style=for-the-badge" height="32"/></td>
+<td align="center"><img src="https://img.shields.io/badge/%F0%9F%8E%B5%20Cultura-cc0066?style=for-the-badge" height="32"/></td>
+<td align="center"><img src="="32"/></td>
+</tr>
+ Música | Canto Libre Oficial | Presencia digital |
 | ✝️ Comunidad | La Armadura de Dios | Plataforma comunitaria |
 | 🔬 Tech y R and D | Hyperium IA · Hyperium Web · Hyperium SH · LAINCRIM SEC | 4 plataformas propias |
 
@@ -606,7 +630,14 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 <td width="50%" align="center">
 
 **🏗️ Resilient Architecture**
-<sub>Sistemas diseñados para resistir, recuperarse y escalar</sub>
+<sub>Sistemas diseñados para resistir que lo hace todo posible.</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<b style="font-size:15px;">🛡️ LAINCRIM SEC — La Defensa</b><br/><br/>
+<sub>Ciberdefensa corporativa, forensia legal con cadena de custodia, compliance regulatorio. La armadura que protege a empresas y gobierno.</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<b style="font-size:15px;">🌐 Hyperium Web y SH — La Presencia</b><br, recuperarse y escalar</sub>
 
 </td>
 </tr>
@@ -632,14 +663,7 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 <tr>
 <td width="33%" align="center" valign="top">
 <b style="font-size:15px;">🔬 Hyperium IA — La Ingeniería</b><br/><br/>
-<sub>I+D, arquitectura de sistemas, post-quantum cryptography, Rust y Python de nivel producción. La base técnica que lo hace todo posible.</sub>
-</td>
-<td width="33%" align="center" valign="top">
-<b style="font-size:15px;">🛡️ LAINCRIM SEC — La Defensa</b><br/><br/>
-<sub>Ciberdefensa corporativa, forensia legal con cadena de custodia, compliance regulatorio. La armadura que protege a empresas y gobierno.</sub>
-</td>
-<td width="33%" align="center" valign="top">
-<b style="font-size:15px;">🌐 Hyperium Web y SH — La Presencia</b><br/><br/>
+<sub>I+D, arquitectura de sistemas, post-quantum cryptography, Rust y Python de nivel producción. La base técnica/><br/>
 <sub>Desarrollo web, SaaS, herramientas CLI. La cara digital que 14+ empresas presentan al mundo.</sub>
 </td>
 </tr>
@@ -709,7 +733,7 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    MÉTRICAS DE GITHUB                                   -->
+<!--                    MÉTRICAS DE GITHUB (FIXED)                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 📊 Métricas de GitHub
@@ -731,18 +755,18 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hyperiumia&theme=transparent&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4&title=commits,issues,prs,stars,followers,multi-lingual" />
+<img src="https://github-profile-trophy.vercel.app/?username=hyperiumia&theme=transparent&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hyperiumia&bg_color=0d1117&color=006699&line=006699&point=006699&area=true&hide_border=true&radius=16" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hyperiumia&bg_color=0d1117&color=006699&line=006699&point=006699&area=true&hide_border=true" width="100%" />
 
 <br/><br/>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         CTA EJECUTIVO                                   -->
+<!--                    CTA EJECUTIVO (FIXED)                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ### 💬 ¿Hablemos de Nivel Ejecutivo?
@@ -774,11 +798,11 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 
 <br/>
 
-<a href="https://linkedin.com/in/patricio-tirado-ceo/"><img src="https://img.shields.io/badge/LinkedIn--Connect%20Now-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005588" height="40"/></a>
+<a href="https://linkedin.com/in/patricio-tirado-ceo/"><img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/></a>
 &nbsp;
-<a href="https://hyperiumia.com"><img src="https://img.shields.io/badge/Hyperium%20IA--Visitar-006699?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=004477" height="40"/></a>
+<a href="https://hyperiumia.com"><img src="https://img.shields.io/badge/Hyperium_IA-Visitar-006699?style=for-the-badge&logo=googlechrome&logoColor=white" height="40"/></a>
 &nbsp;
-<a href="https://laincrim.com"><img src="https://img.shields.io/badge/LAINCRIM%20SEC--Visitar-cc0000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=990000" height="40"/></a>
+<a href="https://laincrim.com"><img src="https://img.shields.io/badge/LAINCRIM_SEC-Visitar-cc0000?style=for-the-badge&logo=googlechrome&logoColor=white" height="40"/></a>
 
 <br/>
 
@@ -793,6 +817,6 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 <!--                        FOOTER ANIMADO                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:006699,100:0d1117&height=130&section=footer&text=%C2%A9%202025%20Patricio%20Tirado%20%7C%20Hyperium%20IA%20%26%20LAINCRIM%20SEC&fontColor=888888&fontSize=16&desc=Hecho%20con%20ingenier%C3%ADa%20en%20San%20Antonio%2C%20Chile%20%F0%9F%87%A8%F0%9F%87%B1&descSize=14&descColor=555555&descAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:006699,100:0d1117&height=130&section=footer&text=%C2%A9%202025%20Patricio%20Tirado%20-%20Hyperium%20IA%20-%20LAINCRIM%20SEC&fontColor=888888&fontSize=16&desc=Hecho%20con%20ingenier%C3%ADa%20en%20San%20Antonio%2C%20Chile%20%F0%9F%87%A8%F0%9F%87%B1&descSize=14&descColor=555555&descAlignY=75" width="100%"/>
 
 </div>
