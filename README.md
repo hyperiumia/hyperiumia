@@ -18,7 +18,7 @@
 <br/><br/>
 
 <!-- TYPING ANIMATION v3 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=600&color=006699&center=true&vCenter=true&repeat=true&width=720&height=100&lines=%F0%9F%91%A4+Patricio+Tirado+%E2%80%94+CEO+%26+Founder;Arquitectura+de+Ecosistemas+Seguros;64%2B+Herramientas+de+Producci%C3%B3n;2%2C508%2B+Tests+Automatizados+%E2%9C%85;Legal-Grade+Digital+Forensics;Post-Quantum+Cryptography;Zero+Cloud+%C2%B7+100%25+On-Premise;Compliance:+ISO+%C2%B7+NIST+%C2%B7+GDPR+%C2%B7+PCI-DSS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=600&color=006699&center=true&vCenter=true&repeat=true&width=720&height=100&lines=%F0%9F%91%A4+Patricio+Tirado+%E2%80%94+CEO+%26+Founder;Arquitectura+de+Ecosistemas+Seguros;60%2B+Herramientas+de+Producci%C3%B3n;2%2C500%2B+Tests+Automatizados+%E2%9C%85;Forensia+digital+con+cadena+de+custodia;Post-Quantum+Cryptography;Arquitectura+On-Premise+Controlable;Compliance:+ISO+%C2%B7+NIST+%C2%B7+GDPR+%C2%B7+PCI-DSS)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,10 +26,10 @@
 <table>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/%F0%9F%93%A6%20Repositorios-100%2B-006699?style=for-the-badge&logo=github&logoColor=white" height="34"/></td>
-<td align="center"><img src="https://img.shields.io/badge/%F0%9F%94%A7%20Herramientas-64%2B%20Producci%C3%B3n-009900?style=for-the-badge&logo=python&logoColor=white" height="34"/></td>
-<td align="center"><img src="https://img.shields.io/badge/%E2%9C%85%20Tests-2508%2B%20Automatizados-1a7f37?style=for-the-badge&logo=pytest&logoColor=white" height="34"/></td>
-<td align="center"><img src="https://img.shields.io/badge/%F0%9F%8F%97%EF%B8%8F%20Zero%20Cloud-100%25%20On--Premise-ff6600?style=for-the-badge&logo=docker&logoColor=white" height="34"/></td>
-<td align="center"><img src="https://img.shields.io/badge/%E2%9A%96%EF%B8%8F%20Legal--Grade-Chain%20of%20Custody-cc0000?style=for-the-badge" height="34"/></td>
+<td align="center"><img src="https://img.shields.io/badge/%F0%9F%94%A7%20Herramientas-60%2B%20Producci%C3%B3n-009900?style=for-the-badge&logo=python&logoColor=white" height="34"/></td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%9C%85%20Tests-2500%2B%20Automatizados-1a7f37?style=for-the-badge&logo=pytest&logoColor=white" height="34"/></td>
+<td align="center"><img src="https://img.shields.io/badge/%F0%9F%8F%97%EF%B8%8F%20On--Premise-100%25%20Controlable-ff6600?style=for-the-badge&logo=docker&logoColor=white" height="34"/></td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%9A%96%EF%B8%8F%20Forensia-Cadena%20de%20Custodia-cc0000?style=for-the-badge" height="34"/></td>
 </tr>
 </table>
 
@@ -41,7 +41,7 @@
 <!--                      MAPA DEL ECOSISTEMA                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 🗺️ Mapa del Ecosistema — 64 Herramientas, 2 Empresas, 4 Plataformas
+## 🗺️ Mapa del Ecosistema — 60+ Herramientas, 2 Marcas Principales, 4 Plataformas
 
 </div>
 
@@ -49,18 +49,18 @@
 graph TB
     CEO["👤 PATRICIO TIRADO<br/>CEO y Founder"]
 
-    CEO --> HA["🔬 HYPERIUM IA<br/>I+D - Ingenieria - PQC"]
-    CEO --> LS["🛡️ LAINCRIM SEC<br/>Ciberdefensa - Forense Legal"]
+    CEO --> HA["🔬 HYPERIUM IA<br/>I+D · Ingeniería · PQC"]
+    CEO --> LS["🛡️ LAINCRIM<br/>Ciberdefensa · Forensia digital"]
 
-    HA --> R1["🔮 Nucleo Rust<br/>4 tools"]
-    HA --> P1["🔐 Post-Quantum<br/>2 tools"]
+    HA --> R1["🔮 Núcleo Rust<br/>4 tools"]
+    HA --> P1["🔐 Post-Quantum<br/>3 tools"]
     HA --> I1["⚙️ Infraestructura<br/>10 tools"]
     HA --> A1["🤖 IA y Data<br/>7 tools"]
     HA --> D1["🔧 Dev Pro<br/>8 tools"]
 
-    LS --> S1["🛡️ Ciberdefensa SOC<br/>9 tools"]
-    LS --> T1["⚔️ Auditoria y Simulacion<br/>5 tools"]
-    LS --> F1["⚖️ Forensia Legal<br/>4 tools"]
+    LS --> S1["🛡️ Ciberdefensa (SOC)<br/>9 tools"]
+    LS --> T1["⚔️ Auditoría y Simulación<br/>5 tools"]
+    LS --> F1["⚖️ Forensia digital<br/>4 tools"]
 
     HA --> W1["🌐 hyperiumia.com"]
     HA --> W2["🌐 hyperiumweb.com"]
@@ -85,7 +85,7 @@ graph TB
 
 <div align="center">
 
-> **De 64 herramientas técnicas a una arquitectura visible y comprensible en 3 segundos.**
+> **De más de 60 herramientas técnicas a una arquitectura visible y comprensible en 3 segundos.**
 
 <br/>
 
@@ -99,7 +99,7 @@ graph TB
 
 </div>
 
-> ### *"Mis repositorios son ecosistemas de código funcional y auditable, listos para producción. Cero Nube. Todo Ingeniería."*
+> ### *"Mis repositorios son ecosistemas de código funcional y auditable, listos para producción. Arquitectura diseñada para despliegue on-premise. Todo Ingeniería."*
 
 <div align="center">
 
@@ -107,7 +107,7 @@ graph TB
 
 Ingeniero de Software centrado en la creación de ecosistemas de código **robustos, escalables y testeados** que sirven como la base de la **ciberdefensa corporativa**.
 
-Fusiono la **ingeniería de software de alto nivel** (con rigor de producción on-premise) con la **disciplina defensiva corporativa** y la **cadena de custodia legal**, asegurando que los sistemas que construyo no solo funcionen, sino que sean **resilientes y auditables judicialmente**.
+Fusiono la **ingeniería de software de alto nivel** (con rigor de producción on-premise) con la **disciplina defensiva corporativa** y la **metodología de cadena de custodia**, asegurando que los sistemas que construyo no solo funcionen, sino que sean **resilientes y auditables**.
 
 <br/>
 
@@ -125,7 +125,7 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 <tr>
 <td colspan="3" align="center" style="padding:20px;">
 <b style="font-size:22px;">👤 Patricio Tirado</b><br/>
-<sub style="font-size:15px;">CEO y Founder | Hyperium IA y LAINCRIM SEC</sub><br/><br/>
+<sub style="font-size:15px;">CEO y Founder | Hyperium IA y LAINCRIM</sub><br/><br/>
 <sub style="font-size:13px; color:#888;">San Antonio, Chile 🇨🇱 · Alcance Nacional → LATAM</sub>
 </td>
 </tr>
@@ -141,11 +141,11 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 </td>
 <td width="33%" align="center" valign="top">
 <b style="font-size:15px;">🏢 Corporativo y Enterprise</b><br/><br/>
-<sub>Conexiones C-level con grandes corporaciones chilenas y latinoamericanas. 14+ empresas confían en el ecosistema para su presencia digital y seguridad.</sub>
+<sub>Conexiones C-level con grandes corporaciones chilenas y latinoamericanas. Más de 14 clientes y proyectos atendidos con el ecosistema.</sub>
 </td>
 <td width="33%" align="center" valign="top">
 <b style="font-size:15px;">⚖️ Legal y Judicial</b><br/><br/>
-<sub>Colaboración con estudios jurídicos y profesionales del sector legal. Herramientas de forensia con cadena de custodia judicial.</sub>
+<sub>Colaboración con estudios jurídicos y profesionales del sector legal. Herramientas de forensia con metodología de cadena de custodia.</sub>
 </td>
 </tr>
 </table>
@@ -156,7 +156,7 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/%F0%9F%8F%9B%EF%B8%8F%20Gov%20Relations-004477?style=for-the-badge" height="32"/></td>
 <td align="center"><img src="https://img.shields.io/badge/%F0%9F%8F%A2%20Enterprise%20Network-006699?style=for-the-badge" height="32"/></td>
-<td align="center"><img src="https://img.shields.io/badge/%E2%9A%96%EF%B8%8F%20Legal%20and%20Judicial-cc0000?style=for-the-badge" height="32"/></td>
+<td align="center"><img src="https://img.shields.io/badge/%E2%9A%96%EF%B8%8F%20Legal%20y%20Judicial-cc0000?style=for-the-badge" height="32"/></td>
 <td align="center"><img src="https://img.shields.io/badge/%F0%9F%8E%AF%20Strategic%20Alliances-ff6600?style=for-the-badge" height="32"/></td>
 <td align="center"><img src="https://img.shields.io/badge/%F0%9F%87%A8%F0%9F%87%B1%20Chile%20%2B%20LATAM-cc3333?style=for-the-badge" height="32"/></td>
 </tr>
@@ -264,7 +264,7 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 <td width="50%" align="center">
 
 **🛡️ Defensa y Respuesta**
-<sub>NIST CSF · NIST SP 800-61 · MITRE ATT and CK</sub>
+<sub>NIST CSF · NIST SP 800-61 · MITRE ATT y CK</sub>
 
 </td>
 <td width="50%" align="center">
@@ -280,10 +280,7 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 **📋 Compliance Corporativo**
 <sub>ISO 27001/27002 · PCI-DSS · GDPR · OWASP</sub>
 
-</td>
-<td width="50%" align="center">
-
-**🇨🇱 Regulación Chilena**
+</tdación Chilena**
 <sub>Ley 19.628 · LFPDPPP · Cadena de Custodia</sub>
 
 </td>
@@ -298,9 +295,12 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                    ECOSISTEMA COMPLETO                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════>
+<td width="50%" align="center">
 
-## 📦 Ecosistema Completo — 64 Herramientas de Producción
+**🇨🇱 Regul══════════════════════════════════ -->
+
+## 📦 Ecosistema Completo — Más de 60 Herramientas de Producción
 
 </div>
 
@@ -318,7 +318,7 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 </details>
 
 <details>
-<summary><b>🛡️ Ciberdefensa Premium (SOC)</b> (9 herramientas · Security Operations)</summary>
+<summary><b>🛡️ Ciberdefensa (SOC)</b> (9 herramientas · Security Operations)</summary>
 <br/>
 
 | Herramienta | Descripción Operativa |
@@ -367,14 +367,7 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 
 | Herramienta | Descripción Operativa |
 |---|---|
-| **[FastAPI Boilerplate Pro](https://github.com/hyperiumia/hyperium-fastapi-boilerplate)** | Base backend profesional en Python lista para producción (MIT) |
-| **[API Gateway Pro](https://github.com/hyperiumia/api-gateway)** | Control de tráfico, autenticación y rate limiting centralizado |
-| **[Container Orchestrator](https://github.com/hyperiumia/orchestrator)** | Despliegue y simulación local de orquestación de contenedores |
-| **[CI/ para pipelines build-test-deploy |
-| **[Monitoring System](https://github.com/hyperiumia/monitoring-system)** | Observabilidad y alertas en tiempo real de infraestructura local |
-| **Rate Limiter Pro** | Control de tasa de peticiones con algoritmos adaptativosCD Pipeline Engine](https://github.com/hyperiumia/cicd-pipeline)** | Motor de automatización |
-| **Dependency Resolver Pro** | Resolución automática de dependencias y conflictos |
-| **Config Manager Pro** | Gestión centralizada de configuraciones multi-entorno |
+| **[FastAPIentorno |
 | **File Sync Pro** | Sincronización de archivos con detección de conflictos |
 | **Task Queue Pro** | Cola de tareas asíncronas con reintentos y priorización |
 
@@ -414,14 +407,14 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 </details>
 
 <details>
-<summary><b>⚖️ Forensia Legal y Cadena de Custodia</b> (4 herramientas · Legal-Grade)</summary>
+<summary><b>⚖️ Forensia digital y cadena de custodia</b> (4 herramientas · Cadena de Custodia)</summary>
 <br/>
 
 | Herramienta | Descripción Operativa |
 |---|---|
-| **[Forensic Collector Pro](https://github.com/hyperiumia/forensic-collector)** | Evidencia digital con cadena de custodia legal y sellado SHA-256 · 103 tests |
+| **[Forensic Collector Pro](https://github.com/hyperiumia/forensic-collector)** | Evidencia digital con metodología de cadena de custodia y sellado SHA-256 · 103 tests |
 | **[Compliance Auditor Pro](https://github.com/hyperiumia/compliance-auditor)** | Auditoría basada en evidencia: ISO 27001, NIST, GDPR, LFPDPPP, Ley 19.628 · 99 tests |
-| **[Incident Response Engine](https://github.com/hyperiumia/incident-response)** | NIST SP 800-61: Orquestación táctica Paso a Paso · 96 tests |
+| **[Incident Response Engine](https://github.com/hyperiumia/incident-response)** | NIST SP 800-61: Orquestación táctica paso a paso · 96 tests |
 | **Encryption Toolkit Pro** | Suite de criptografía para sellado, protección y verificación de evidencia digital |
 
 </details>
@@ -432,20 +425,27 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 
 | Proyecto | Marca / Cliente | Enfoque |
 |---|---|---|
-| **hyperiumia-web** | 🔬 Hyperium IA | Corporativo / R and D |
-| **hyperium-web** | 💻 Hyperium Web | Desarrollo / SaaS |
-| **hyperiumsh-web** | 🖥️ Hyperium SH | Shell / Sistemas |
-| **laincrim-web** | 🛡️ LAINCRIM SEC | Ciberdefensa / Legal |
+| **hyperiumia-web** | 🔬 Hyperium IA | Corporativo / I+D |
+| **hyperium-web** | 💻 HyperiumWeb | Desarrollo web seguro / SaaS |
+| **hyperiumsh-web** | 🖥️ HyperiumSH | Academia técnica / Cursos |
+| **laincrim-web** | 🛡️ LAINCRIM | Ciberdefensa / Forensia digital |
 | **clubauravip-web** | ✨ Club Aura VIP | Hospitality / Lifestyle |
 | **wkbachile** | 🥊 WKB Chile | Deportes / Wellness |
 | **estudiojuridicoriveraymontoya-web** | ⚖️ Estudio Jurídico Rivera y Montoya | Legal |
 | **mentor-5am-web** | 🌅 Mentor 5AM | Coaching / Liderazgo |
 | **ciudadano-seguro-web** | 🛡️ Ciudadano Seguro | Seguridad Ciudadana |
-| **elitethaiboxchile-web** | 🥋 Elite Thai Box Chile | Deportes / Artes Marciales |
+| **elitethaiboxchile-web** | 🥋 Elite/hyperiumia/monitoring-system)** | Observabilidad y alertas en tiempo real de infraestructura local Boilerplate Pro](https://github.com/hyperiumia/hyperium-fastapi-boilerplate)** | Base backend profesional en Python lista para producción (MIT) |
+| **[API Gateway Pro](https://github.com/hyperiumia/api-gateway)** | Control de tráfico, autenticación y rate limiting centralizado |
+| **[Container Orchestrator](https://github.com/hyperiumia/orchestrator)** | Despliegue y simulación local de orquestación de contenedores |
+| **[CI/CD Pipeline Engine](https://github.com/hyperiumia/cicd-pipeline)** | Motor de automatización para pipelines build-test-deploy |
+| **[Monitoring System](https://github.com |
+| **Rate Limiter Pro** | Control de tasa de peticiones con algoritmos adaptativos |
+| **Dependency Resolver Pro** | Resolución automática de dependencias y conflictos |
+| **Config Manager Pro** | Gestión centralizada de configuraciones multi- Thai Box Chile | Deportes / Artes Marciales |
 | **mtc-organizacion-web** | 📊 MTC Organización | Consultoría |
 | **macarenutricion-web** | 🥗 Macarena Nutrición | Salud / Nutrición |
 | **cantolibreoficial-web** | 🎵 Canto Libre Oficial | Música / Cultura |
-| **laarmadura-dios-web** | ✝️ La Armadura de Dios | Comunidad / Fe |
+| **laarmhttps://img.shields.io/badgeadura-dios-web** | ✝️ La Armadura de Dios | Comunidad / Fe |
 
 </details>
 
@@ -457,7 +457,10 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 |---|---|:-:|
 | **[Password Generator](https://github.com/hyperiumia/password-generator)** | Generador criptográficamente seguro con análisis de entropía | MIT |
 | **[QR Generator](https://github.com/hyperiumia/qr-generator)** | Generador de códigos QR con personalización | MIT |
-| **[File Calculadora con funciones avanzadas | MIT |
+| **[File Organizer](https://github.com/hyperiumia/file-organizer)** | Organizador automático de archivos por tipo y fecha | MIT |
+| **[Currency Converter](https://github.com/hyperiumia/currency-converter)** | Conversor de divisas en tiempo real | MIT |
+| **[Pomodoro Timer](https://github.com/hyperiumia/pomodoro-timer)** | Temporizador Pomodoro para productividad | MIT |
+| **[Calculator Pro](https://github.com/hyperiumia/calculator-pro)** | Calculadora con funciones avanzadas | MIT |
 | **[News Scraper](https://github.com/hyperiumia/news-scraper)** | Scraper de noticias con RSS | MIT |
 | **[Telegram Bot](https://github.com/hyperiumia/telegram-bot)** | Bot de Telegram con handlers y comandos | MIT |
 | **[Data Dashboard](https://github.com/hyperiumia/data-dashboard)** | Dashboard de datos con visualización | MIT |
@@ -468,7 +471,12 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 | **Regex Tester** | Probador de expresiones regulares | MIT |
 | **Markdown Previewer** | Editor y visor de Markdown | MIT |
 
-</details>
+="https://img.shields.io/badge/%F0%9F%8F%A5%20Salud-009900?style=for-the-badge" height="32"/></td>
+<td align="center"><img src="https://img.shields.io/badge/%F0%9F%8E%93%20Educaci%C3%B3n-ff6600?style=for-the-badge" height="32"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/%F0%9F%A5%8A%20Deportes-cc3333?style=for-the-badge" height="32"/></td>
+<td align="center"><img src="https://img.shields.io/badge/%F0%9F%8F%A8%20Hospitality-9966cc?style=</details>
 
 <br/>
 
@@ -482,29 +490,26 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 
 ## 🌐 Universo Digital Hyperium
 
- **[Pomodoro Timer](https://github.com/hyperiumia/pomodoro-timer)** | Organizer](https://github.com/hyperiumia/file-organizer)** | Organizador automático de archivos por tipo y fecha | MIT |
-| **[Currency Converter](https://github.com/hyperiumia/currency-converter)** | Conversor de divisas en tiempo real | MIT |
-| Temporizador Pomodoro para productividad | MIT |
-| **[Calculator Pro](https://github.com/hyperiumia/calculator-pro)** |<table>
+<table>
 <tr>
 <td width="25%" align="center">
 <b style="font-size:14px;">🔬 Hyperium IA</b><br/>
-<sub>R and D · Ingeniería · PQC</sub><br/><br/>
+<sub>I+D · Ingeniería · PQC</sub><br/><br/>
 <a href="https://hyperiumia.com"><img src="https://img.shields.io/badge/Visitar-006699?style=for-the-badge&logo=googlechrome&logoColor=white" height="28"/></a>
 </td>
 <td width="25%" align="center">
-<b style="font-size:14px;">💻 Hyperium Web</b><br/>
-<sub>Desarrollo · Web · SaaS</sub><br/><br/>
+<b style="font-size:14px;">💻 HyperiumWeb</b><br/>
+<sub>Desarrollo web seguro · SaaS</sub><br/><br/>
 <a href="https://hyperiumweb.com"><img src="https://img.shields.io/badge/Visitar-005588?style=for-the-badge&logo=googlechrome&logoColor=white" height="28"/></a>
 </td>
 <td width="25%" align="center">
-<b style="font-size:14px;">🖥️ Hyperium SH</b><br/>
-<sub>Shell · Sistemas · CLI</sub><br/><br/>
+<b style="font-size:14px;">🎓 HyperiumSH</b><br/>
+<sub>Academia · Cursos · Formación</sub><br/><br/>
 <a href="https://hyperiumsh.com"><img src="https://img.shields.io/badge/Visitar-004477?style=for-the-badge&logo=googlechrome&logoColor=white" height="28"/></a>
 </td>
 <td width="25%" align="center">
-<b style="font-size:14px;">🛡️ LAINCRIM SEC</b><br/>
-<sub>Ciberdefensa · Forense Legal</sub><br/><br/>
+<b style="font-size:14px;">🛡️ LAINCRIM</b><br/>
+<sub>Ciberdefensa · Forensia digital</sub><br/><br/>
 <a href="https://laincrim.com"><img src="https://img.shields.io/badge/Visitar-cc0000?style=for-the-badge&logo=googlechrome&logoColor=white" height="28"/></a>
 </td>
 </tr>
@@ -514,7 +519,7 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 <!--                    INDUSTRIAS y SECTORES                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
@@ -522,7 +527,7 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 
 </div>
 
-> **10 sectores. 14 empresas. Un ecosistema que protege a Chile de punta a punta.**
+> **10 sectores. 14+ clientes y proyectos atendidos. Con presencia y proyectos en múltiples sectores de Chile.**
 
 <br/>
 
@@ -530,7 +535,12 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/%F0%9F%8F%9B%EF%B8%8F%20Gobierno-004477?style=for-the-badge" height="32"/></td>
 <td align="center"><img src="https://img.shields.io/badge/%F0%9F%8F%A2%20Banca%20y%20Finanzas-006699?style=for-the-badge" height="32"/></td>
-<td align="center"><img src="https://img.shields.io/badge/%E2%9A%96%EF%B8%8F%20Legal%20y%20Judicial-cc0000?style=for-the-badge</table>
+<td align="center"><img src="https://img.shields.io/badge/%E2%9A%96%EF%B8%8F%20Legal%20y%20Judicial-cc0000?style=for-the-badge" height="32"/></td>
+<td align="center"><img srcfor-the-badge" height="32"/></td>
+<td align="center"><img src="https://img.shields.io/badge/%F0%9F%8E%B5%20Cultura-cc0066?style=for-the-badge" height="32"/></td>
+<td align="center"><img src="/%F0%9F%920Tech%20y%20SaaS-006699?style=for-the-badge" height="32"/></td>
+</tr>
+</table>
 
 <br/>
 
@@ -542,20 +552,9 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 | 🥗 Salud y Nutrición | Macarena Nutrición | Sitio web profesional |
 | 🌅 Educación y Coaching | Mentor 5AM | Plataforma de liderazgo |
 | ✨ Hospitality | Club Aura VIP | Landing premium |
-| 🎵 Cultura yhttps://img.shields.io/badge/%F0%9F%9B%92%20Retail-ff9933?style=for-the-badge" height="32"/></td>
-<td align="center"><img src="https://img.shields.io/badge/%E2%9C%9D%EF%B8%8F%20Tech%20y%20SaaS-006699?style=for-the-badge" height" height="32"/></td>
-<td align="center"><img src="https://img.shields.io/badge/%F0%9F%8F%A5%20Salud-009900?style=for-the-badge" height="32"/></td>
-<td align="center"><img src="https://img.shields.io/badge/%F0%9F%8E%93%20Educaci%C3%B3n-ff6600?style=for-the-badge" height="32"/></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/%F0%9F%A5%8A%20Deportes-cc3333?style=for-the-badge" height="32"/></td>
-<td align="center"><img src="https://img.shields.io/badge/%F0%9F%8F%A8%20Hospitality-9966cc?style=for-the-badge" height="32"/></td>
-<td align="center"><img src="https://img.shields.io/badge/%F0%9F%8E%B5%20Cultura-cc0066?style=for-the-badge" height="32"/></td>
-<td align="center"><img src="="32"/></td>
-</tr>
- Música | Canto Libre Oficial | Presencia digital |
+| 🎵 Cultura y Música | Canto Libre Oficial | Presencia digital |
 | ✝️ Comunidad | La Armadura de Dios | Plataforma comunitaria |
-| 🔬 Tech y R and D | Hyperium IA · Hyperium Web · Hyperium SH · LAINCRIM SEC | 4 plataformas propias |
+| 🔬 Tech y I+D | Hyperium IA · HyperiumWeb · HyperiumSH · LAINCRIM | 4 plataformas propias |
 
 <br/>
 
@@ -564,15 +563,17 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                      BUSINESS UNITS                                    -->
+<!--                    UNIDADES DE NEGOCIO                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 🏢 Estructura Business
+## 🏢 Unidades de Negocio
 
-| | Empresa | Enfoque Estratégico | Presencia |
-|:-:|---|---|:-:|
-| 🔬 | **[Hyperium IA](https://hyperiumia.com)** | I+D en Ingeniería robusta, Arquitectura de Sistemas y Post-Quantum Cryptography | 🌐 |
-| 🛡️ | **[LAINCRIM SEC](https://laincrim.com)** | Ciberseguridad Defensiva e Investigación Forense Digital Legal | 🌐 |
+| | Marca | Enfoque Estratégico | Plataformas |
+|:-:|---|---|---|
+| 🔬 | **[Hyperium IA](https://hyperiumia.com)** | I+D en Ingeniería robusta, Arquitectura de Sistemas y Post-Quantum Cryptography | HyperiumWeb · HyperiumSH |
+| 🛡️ | **[LAINCRIM](https://laincrim.com)** | Ciberseguridad Defensiva e Investigación Forense Digital con metodología de cadena de custodia | Plataformas LAINCRIM |
+
+> **2 marcas principales · 4 plataformas activas · Ecosistema integrado**
 
 <br/>
 
@@ -591,9 +592,10 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 | Categoría | Stack |
 |---|---|
 | **Backend y Core** | Python · Rust · FastAPI · Bash · TypeScript · SQL · Clean Code |
-| **Infraestructura** | Docker · Linux · Nginx · PostgreSQL · On-Premise Architecture |
-| **Seguridad y Forense** | Blue Team · Digital Forensics · MITRE ATT and CK · STIX 2.1 · OWASP · Post-Quantum |
-| **Calidad y Resiliencia** | TDD (2,508+ tests) · CI/CD · Zero Cloud · 100% Auditado |
+| **Infraestructura** | Docker · Linux · Nginx · PostgreSQL · Arquitectura On-Premise |
+| **Seguridad y Forense** | Blue Team · Forensia digital · MITRE ATT y CK · STIX 2.1 · OWASP ·ER ANIMADO                                  -->
+ Post-Quantum |
+| **Calidad y Resiliencia** | TDD (2,500+ tests) · CI/CD · On-Premise controlable · 100% Auditado |
 
 <br/>
 
@@ -615,29 +617,22 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 </td>
 <td width="50%" align="center">
 
-**🔒 Zero Cloud / 100% On-Premise**
-<sub>Control total sobre la infraestructura y los datos</sub>
+**🔒 On-Premise Controlable**
+<sub>Arquitectura diseñada para despliegue on-premise con control total de infraestructura y datos</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 
-**⚖️ Legal-Grade Forensics**
-<sub>Cadena de custodia legal, sellado SHA-256, auditabilidad judicial</sub>
+**⚖️ Forensia digital con cadena de custodia**
+<sub>Metodología orientada a cadena de custodia, sellado SHA-256 y auditoría</sub>
 
 </td>
 <td width="50%" align="center">
 
 **🏗️ Resilient Architecture**
-<sub>Sistemas diseñados para resistir que lo hace todo posible.</sub>
-</td>
-<td width="33%" align="center" valign="top">
-<b style="font-size:15px;">🛡️ LAINCRIM SEC — La Defensa</b><br/><br/>
-<sub>Ciberdefensa corporativa, forensia legal con cadena de custodia, compliance regulatorio. La armadura que protege a empresas y gobierno.</sub>
-</td>
-<td width="33%" align="center" valign="top">
-<b style="font-size:15px;">🌐 Hyperium Web y SH — La Presencia</b><br, recuperarse y escalar</sub>
+<sub>Sistemas diseñados para resistir, recuperarse y escalar</sub>
 
 </td>
 </tr>
@@ -647,25 +642,8 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       VISIÓN EJECUTIVA                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🎯 Visión Ejecutiva
-
-</div>
-
-> ### *"La ciberseguridad no es un producto — es un ecosistema. Y los ecosistemas se construyen con ingeniería, regulación y relaciones de confianza."*
-
-<br/>
-
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-<b style="font-size:15px;">🔬 Hyperium IA — La Ingeniería</b><br/><br/>
-<sub>I+D, arquitectura de sistemas, post-quantum cryptography, Rust y Python de nivel producción. La base técnica/><br/>
-<sub>Desarrollo web, SaaS, herramientas CLI. La cara digital que 14+ empresas presentan al mundo.</sub>
-</td>
+<!-- ═══════════════════════════════════════════════════════ -->
+%2B%20LATAM-006699?style=for-the-badge" height="34"/></td>
 </tr>
 </table>
 
@@ -673,57 +651,8 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 
 <table>
 <tr>
-<td align="center">
-
-**🗺️ 2025 → LATAM Expansion**
-<sub>Del alcance nacional al regional con un ecosistema probado</sub>
-
-</td>
-<td align="center">
-
-**🔮 2025 → Post-Quantum Ready**
-<sub>Preparando a Chile para la era cuántica con herramientas NIST FIPS</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    DASHBOARD OPERATIVO                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 📊 Dashboard Operativo — Números que Importan
-
-<table>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/%F0%9F%93%A6%20Repositorios-100%2B-006699?style=for-the-badge&logo=github&logoColor=white" height="34"/></td>
-<td align="center"><img src="https://img.shields.io/badge/%F0%9F%94%A7%20Herramientas-64%2B-009900?style=for-the-badge&logo=python&logoColor=white" height="34"/></td>
-<td align="center"><img src="https://img.shields.io/badge/%E2%9C%85%20Tests-2508%2B-1a7f37?style=for-the-badge&logo=pytest&logoColor=white" height="34"/></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/%F0%9F%8F%A2%20Clientes-14%2B%20Empresas-006699?style=for-the-badge" height="34"/></td>
-<td align="center"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Dominios-4%20Activos-004477?style=for-the-badge" height="34"/></td>
-<td align="center"><img src="https://img.shields.io/badge/%F0%9F%8F%9B%EF%B8%8F%20Empresas-2%20Fundadas-ff6600?style=for-the-badge" height="34"/></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/%F0%9F%93%82%20Categor%C3%ADas-9%20%C3%81reas-cc0000?style=for-the-badge" height="34"/></td>
-<td align="center"><img src="https://img.shields.io/badge/%E2%9A%96%EF%B8%8F%20Frameworks-15%20Regulatorios-cc3333?style=for-the-badge" height="34"/></td>
-<td align="center"><img src="https://img.shields.io/badge/%F0%9F%8C%8D%20Alcance-Chile%20%2B%20LATAM-006699?style=for-the-badge" height="34"/></td>
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/Zero%20Cloud-100%25%20On--Premise-ff6600?style=for-the-badge&logo=docker&logoColor=white" height="34"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Legal--Grade-Chain%20of%20Custody-cc0000?style=for-the-badge" height="34"/></td>
+<td align="center"><img src="https://img.shields.io/badge/On--Premise-100%25%20Controlable-ff6600?style=for-the-badge&logo=docker&logoColor=white" height="34"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Forensia-Cadena%20de%20Custodia-cc0000?style=for-the-badge" height="34"/></td>
 <td align="center"><img src="https://img.shields.io/badge/Lenguajes-5%20%28Python%2C%20Rust%2C%20TS%2C%20Bash%2C%20HTML%29-006699?style=for-the-badge" height="34"/></td>
 </tr>
 </table>
@@ -733,7 +662,7 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    MÉTRICAS DE GITHUB (FIXED)                          -->
+<!--                    MÉTRICAS DE GITHUB                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 📊 Métricas de GitHub
@@ -766,7 +695,7 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    CTA EJECUTIVO (FIXED)                               -->
+<!--                    CTA EJECUTIVO                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ### 💬 ¿Hablemos de Nivel Ejecutivo?
@@ -778,7 +707,7 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 <td width="33%" align="center">
 
 **🏛️ Gobierno / Sector Público**
-<sub>¿Necesitas compliance, ciberseguridad o forensia legal para tu entidad?</sub>
+<sub>¿Necesitas compliance, ciberseguridad o forensia digital para tu entidad?</sub>
 
 </td>
 <td width="33%" align="center">
@@ -802,11 +731,11 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 &nbsp;
 <a href="https://hyperiumia.com"><img src="https://img.shields.io/badge/Hyperium_IA-Visitar-006699?style=for-the-badge&logo=googlechrome&logoColor=white" height="40"/></a>
 &nbsp;
-<a href="https://laincrim.com"><img src="https://img.shields.io/badge/LAINCRIM_SEC-Visitar-cc0000?style=for-the-badge&logo=googlechrome&logoColor=white" height="40"/></a>
+<a href="https://laincrim.com"><img src="https://img.shields.io/badge/LAINCRIM-Visitar-cc0000?style=for-the-badge&logo=googlechrome&logoColor=white" height="40"/></a>
 
 <br/>
 
-> *"No vendo software. Construyo ecosistemas de defensa que gobiernos y empresas usan para proteger lo que importa."*
+> *"No vendo software. Construyo ecosistemas de defensa que empresas y sector público usan para proteger lo que importa."*
 > **— Patricio Tirado, CEO y Founder**
 
 <br/>
@@ -814,9 +743,6 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        FOOTER ANIMADO                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:006699,100:0d1117&height=130&section=footer&text=%C2%A9%202025%20Patricio%20Tirado%20-%20Hyperium%20IA%20-%20LAINCRIM%20SEC&fontColor=888888&fontSize=16&desc=Hecho%20con%20ingenier%C3%ADa%20en%20San%20Antonio%2C%20Chile%20%F0%9F%87%A8%F0%9F%87%B1&descSize=14&descColor=555555&descAlignY=75" width="100%"/>
-
-</div>
+<!--                        FOOT<!-- TA | ✅ |
+| 6 | **"Legal and Judicial" → "Legal y Judicial"** | Liderazgo badges, Industrias badges | ✅ |
+| 6 | **"Business Units" → "Unidades de Negocio"** | Título de sección | ✅ |
