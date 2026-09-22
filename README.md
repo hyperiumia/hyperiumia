@@ -719,10 +719,10 @@ Fusiono la **ingeniería de software de alto nivel** (con rigor de producción o
 <table>
 <tr>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hyperiumia&show_icons=true&theme=transparent&title_color=006699&icon_color=006699&text_color=c9d1d9&bg_color=0d1117&ring_color=006699&hide_border=true&rank_icon=github&custom_title=Estad%C3%ADsticas%20de%20GitHub" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hyperiumia&show_icons=true&theme=transparent&title_color=006699&icon_color=006699&text_color=c9d1d9&bg_color=0d1117&hide_border=true" height="200"/>
 </td>
 <td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hyperiumia&theme=dark&ring=006699&fire=006699&currStreakLabel=006699&hide_border=true&border_radius=10&background=0d1117" height="200"/>
+<img src="https://streak-stats.demolab.com?user=hyperiumia&theme=dark&hide_border=true&background=0d1117&ring=006699&fire=006699" height="200"/>
 </td>
 </tr>
 </table>
