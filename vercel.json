@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/lex",
+      "destination": "https://hyperium-lex-web.vercel.app/chat"
+    },
+    {
+      "source": "/lex/:path*",
+      "destination": "https://hyperium-lex-web.vercel.app/:path*"
+    }
+  ]
+}
